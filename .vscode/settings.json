@@ -1,0 +1,8 @@
+{
+    "search.showLineNumbers": false,
+    "search.seedWithNearestWord": false,
+    "debug.autoExpandLazyVariables": false,
+    "debug.showBreakpointsInOverviewRuler": false,
+    "debug.showInStatusBar": "always",
+    "debug.showSubSessionsInToolBar": false
+}
